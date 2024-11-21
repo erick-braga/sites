@@ -1,0 +1,188 @@
+@charset "UTF-8";
+
+.p1 {
+    font-size: 30px;
+}
+.hg {
+    font-size: 50px;
+}
+.navbar-brand {
+    font-size: 60px;
+}
+.table {
+    margin-left: 90px;
+}
+.d1 {
+    font-size: 35px;
+    font-family: "Nothing You Could Do", cursive;
+    font-weight: 8000;
+    font-style: normal;
+}
+.g1{
+    opacity: 0.50;
+    box-shadow: inset 0 0 50px rgba(243, 243, 243, 0.5);
+}
+.red-background {
+    background-color: rgb(156, 16, 16);
+    padding: 30px; /* Opcional: adiciona um pouco de espaçamento interno */
+    color: rgb(0, 0, 0);  /* Opcional: altera a cor do texto para branco para melhor contraste */
+    height: 510px;
+}
+.white-hr {
+    border: none;           /* Remove a borda padrão */
+    height: 2px;            /* Define a altura da linha */
+    background-color: white; /* Define a cor de fundo como branco */
+    margin: 1px 0;        /* Adiciona margem para espaçamento (opcional) */
+    
+}
+h3 {
+    color: black;
+}
+.black {
+    background-color: rgb(255, 255, 255); /* Define a cor de fundo como preto */
+    color: rgb(255, 255, 255);            /* Define a cor do texto como branco para melhor contraste */
+    padding: 20px;          /* Adiciona algum preenchimento ao footer (opcional) */
+}
+.u1 { 
+    font-family: "Nothing You Could Do", cursive;
+  font-weight: 700;
+  font-style: oblique;
+  font-size: 70px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  
+}  
+.i0 {
+    
+        font-family: "Neucha", cursive;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 40px;
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  
+}
+.background-section {
+    background-image: url('imgs/.jpg'); /* Substitua pelo caminho da sua imagem */
+    background-size: cover; /* Cobre a área da div */
+    background-position: center; /* Centraliza a imagem */
+    height: 100%; /* Ajuste a altura conforme necessário */
+    width: 100vw; /* Define a largura como 100% da largura da viewport */
+    position: relative; /* Para garantir que a div se posicione corretamente */
+    left: 50%; /* Centraliza a div horizontalmente */
+    right: 50%;
+    margin-left: -50vw; /* Move a div para a esquerda */
+    margin-right: -50vw; /* Move a div para a direita */
+    
+}
+.u9 {
+    text-align: center;
+}
+.red-background{
+    background-color: rgb(156, 16, 16);
+   
+}
+.u8 { 
+    font-family: "Nothing You Could Do", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 80px;
+}
+.i2 {
+    
+    font-family: "Neucha", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+}  
+.u0 { 
+    font-family: "Nothing You Could Do", cursive;
+  font-weight: 600;
+  font-style: normal;
+  font-size: px;
+}
+.font-brand {
+    font-family: "Oswald", sans-serif;
+    font-size: 28px;
+    font-weight: 80px;
+    font-style: normal;
+}
+.background-section2 {
+    background-image: url('imgs/pizzaCortada-opaca.jpeg'); /* Substitua pelo caminho da sua imagem */
+    background-size: cover; /* Cobre a área da div */
+    background-position: center; /* Centraliza a imagem */
+    height: 700px; /* Ajuste a altura conforme necessário */
+    width: 100vw; /* Define a largura como 100% da largura da viewport */
+    position: relative; /* Para garantir que a div se posicione corretamente */
+    left: 50%; /* Centraliza a div horizontalmente */
+    right: 50%;
+    margin-left: -50vw; /* Move a div para a esquerda */
+    margin-right: -50vw; /* Move a div para a direita */
+  
+    
+}
+a:hover{
+    color: white;
+}
+.button-1 {
+    font-size: 70px;
+}
+.u1-2 { 
+    font-family: "Nothing You Could Do", cursive;
+  font-weight: 700;
+  font-style: oblique;
+  font-size: 70px;
+}
+.io-2{
+    font-family: "Neucha", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 40px;
+
+} 
+.u8-2{
+    font-family: "Nothing You Could Do", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 60px;
+}
+.but-cardapio {
+    font-family: "Nothing You Could Do", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+}
+.card-custom {
+    background-color: #ff5733; /* Sua cor desejada */
+   
+}
+.font-desc{
+    font-family: "Neucha", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+}
+.font-title-card{
+    font-family: "Nothing You Could Do", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 36px;
+}
+.font-but {
+    font-family: "Nothing You Could Do", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 70px;
+}
+.center-video {
+    display: flex;
+  justify-content: center;
+}
+.font-title {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: brown;
+    text-shadow: #ff5733;
+}
+nav {
+    position:fixed;
+    margin-top: 0px;
+}
